@@ -6,6 +6,28 @@
 
 https://www.fancyloogies.com/
 
+# Message in Telegram
+
+📣 WELCOME to the 🎁 SVG NFT 🎫 Building Cohort from SpeedRunEthereum.com.
+
+🏆 Assuming you have made it this far you should be comfortable with the basics of  🏗 scaffold-eth…
+
+⚗️ This challenge is _very_ open-ended!!!
+
+🛠 Fork one of these branches and make your own SVG NFT and post the minting url in the chat!
+
+💸 MAIN GOAL: Build an SVG NFT on mainnet and let me ape in.
+
+😄 Loogies SVG NFT: https://github.com/scaffold-eth/scaffold-eth-examples/tree/loogies-svg-nft
+
+💅 Fancy Loogies: https://github.com/scaffold-eth/scaffold-eth/tree/fancy-loogies
+
+🎒 Loogie Tanks: https://github.com/scaffold-eth/scaffold-eth-examples/tree/loogie-tank
+
+🍺 OE 40s with a retro active public goods mechanism built in for recycling: https://github.com/scaffold-eth/scaffold-eth/tree/oe40me
+
+💵 A side goal here is to make something cool enough that people might pay a little ETH for your hardwork on the Solidity!!!
+
 # 🏄‍♂️ Quick Start
 
 ## Prerequisites
